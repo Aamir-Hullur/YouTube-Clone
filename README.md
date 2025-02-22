@@ -41,7 +41,7 @@ The application follows a microservices architecture, with the following key com
 -   **video-processing-service:** A Node.js application running in a Docker container on Cloud Run that processes uploaded videos using FFmpeg.
 
 ## 🏗 System Architecture
-![System Architecture](system-architecture)
+![System Architecture](https://github.com/Aamir-Hullur/YouTube-Clone/blob/main/utils/images/system-architecture.png?raw=true)
 
 
 ## 🛠 Tech Stack 
@@ -83,11 +83,11 @@ YouTube-Clone/
 └── shared/              # Shared types and utilities
 ```
 
-![Project Structure](Project_Structure)   
+![Project Structure](https://github.com/Aamir-Hullur/YouTube-Clone/blob/main/utils/images/Project_Structure.png?raw=true)   
 
 ## 🔄 Video Processing Flow
 
-![Sequence Diagram](sequence_diagram)
+![Sequence Diagram](https://github.com/Aamir-Hullur/YouTube-Clone/blob/main/utils/images/sequence_diagram.png?raw=true)
 
 ## 🙏 Acknowledgments
 
